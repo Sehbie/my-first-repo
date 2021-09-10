@@ -2,4 +2,4 @@
 text
 # Mijn foto
 ![een foto van seb](img/IMG_0904.jpg)
-# ![link naar hogeschool zuyd](https://www.zuyd.nl/)
+# Hier volgt een link naar [de website van hogeschool zuyd](https://www.zuyd.nl), ga snel kijken 
